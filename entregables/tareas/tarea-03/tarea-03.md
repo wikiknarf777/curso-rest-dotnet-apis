@@ -1,6 +1,7 @@
- # Tarea 02.
+ # Tarea 03.
 
 1. Investigar sobre el significado y concepto de CQRS en ASP.NET Core
+
 2. Investigar sobre el uso de la libreria `FluentValidation` para ASP.NET Core y aplicarlo en el codigo indicado por el profesor cuando sea indicado.
 
 
